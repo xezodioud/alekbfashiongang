@@ -1,0 +1,37 @@
+2018-01-10 09:14:35.173 CST [37437] LOG:  listening on IPv6 address "::1", port 5432
+2018-01-10 09:14:35.173 CST [37437] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-01-10 09:14:35.176 CST [37437] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-01-10 09:14:35.190 CST [37438] LOG:  database system was shut down at 2018-01-10 09:13:04 CST
+2018-01-10 09:14:35.198 CST [37437] LOG:  database system is ready to accept connections
+2018-01-10 09:14:50.221 CST [37437] LOG:  received fast shutdown request
+2018-01-10 09:14:50.223 CST [37437] LOG:  aborting any active transactions
+2018-01-10 09:14:50.224 CST [37437] LOG:  worker process: logical replication launcher (PID 37444) exited with exit code 1
+2018-01-10 09:14:50.224 CST [37439] LOG:  shutting down
+2018-01-10 09:14:50.237 CST [37437] LOG:  database system is shut down
+2018-01-10 09:15:03.688 CST [37456] LOG:  listening on IPv6 address "::1", port 5432
+2018-01-10 09:15:03.688 CST [37456] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-01-10 09:15:03.690 CST [37456] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-01-10 09:15:03.702 CST [37457] LOG:  database system was shut down at 2018-01-10 09:14:50 CST
+2018-01-10 09:15:03.707 CST [37456] LOG:  database system is ready to accept connections
+2018-01-10 09:15:07.874 CST [37465] FATAL:  database "Riddim" does not exist
+2018-01-10 09:18:18.788 CST [37500] FATAL:  database "Riddim" does not exist
+2018-01-10 09:22:46.226 CST [37642] FATAL:  database "Riddim" does not exist
+2018-01-10 09:24:32.720 CST [37739] FATAL:  database "Riddim" does not exist
+2018-01-16 20:15:13.580 CST [9770] LOG:  listening on IPv6 address "::1", port 5432
+2018-01-16 20:15:13.583 CST [9770] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2018-01-16 20:15:13.583 CST [9770] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2018-01-16 20:15:13.593 CST [9771] LOG:  database system was shut down at 2018-01-16 20:15:04 CST
+2018-01-16 20:15:13.598 CST [9770] LOG:  database system is ready to accept connections
+2018-01-16 20:15:18.418 CST [9782] FATAL:  database "Riddim" does not exist
+2018-01-16 20:17:54.772 CST [9807] FATAL:  database "Riddim" does not exist
+2018-01-16 20:18:00.044 CST [9811] FATAL:  database "Riddim" does not exist
+2018-01-16 20:24:05.461 CST [9935] FATAL:  database "Riddim" does not exist
+2018-01-16 20:59:58.244 CST [10230] FATAL:  database "Riddim" does not exist
+2018-01-17 11:26:57.060 CST [10339] FATAL:  database "Riddim" does not exist
+2018-01-17 11:27:41.587 CST [10350] FATAL:  database "Riddim" does not exist
+2018-01-17 11:27:48.241 CST [10352] FATAL:  database "alekb" does not exist
+2018-01-17 11:28:43.931 CST [10365] FATAL:  database "Riddim" does not exist
+2018-01-17 11:35:16.403 CST [10604] FATAL:  database "alekb_production" does not exist
+2018-01-17 11:36:00.484 CST [10616] FATAL:  database "Riddim" does not exist
+2018-01-17 11:36:34.774 CST [10625] FATAL:  database "Riddim" does not exist
+2018-01-17 11:49:57.428 CST [10788] FATAL:  database "alekb_development" does not exist
